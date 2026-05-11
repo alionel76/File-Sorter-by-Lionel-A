@@ -13,18 +13,19 @@ Petit projet Python en GUI qui permet de ranger rapidement des fichiers
 Visiter le site officiel : [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 ### 2. Créer un environnement virtuel et l'activer
-- **Création**
+
+#### Création
 ```bash
     python -m venv nom_de_la_venv
 ```
-- **Activation**
+#### Activation
 
-- *** 1. Linux/Mac ***
+##### Linux/Mac
 ```bash
 source nom_de_la_venv/bin/activate
 ```
 
-- *** 2. Windows ***
+##### Windows 
 ```bash
 nom_de_la_venv\Scripts\activate
 ```

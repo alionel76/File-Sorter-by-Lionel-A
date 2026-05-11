@@ -9,23 +9,23 @@ Petit projet Python en GUI qui permet de ranger rapidement des fichiers
 
 ## 🚀 Installation
 
-### 1. Télécharger et installer Python
+### 1   Télécharger et installer Python
 Visiter le site officiel : [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-### 2. Créer un environnement virtuel et l'activer
+### 2   Créer un environnement virtuel et l'activer
 
-####    Création
+#### 2.1    Création
 ```bash
     python -m venv nom_de_la_venv
 ```
-####    Activation
+#### 2.2    Activation
 
-#####       Linux/Mac
+##### 2.2.1 Linux/Mac
 ```bash
 source nom_de_la_venv/bin/activate
 ```
 
-#####       Windows 
+##### 2.2.2 Windows 
 ```bash
 nom_de_la_venv\Scripts\activate
 ```

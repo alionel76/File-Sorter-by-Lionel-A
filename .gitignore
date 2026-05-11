@@ -1,0 +1,8 @@
+# Ignorer les environnements virtuels
+env/
+
+# Ignorer les fichiers compilés Python
+__pycache__/
+
+# Ignorer les fichiers de sortie
+output/

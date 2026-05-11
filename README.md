@@ -18,10 +18,10 @@ Visiter le site officiel : [https://www.python.org/downloads/](https://www.pytho
     python -m venv nom_de_la_venv
 ```
 - **Activation**
-# Linux/Mac
+#### 1. Linux/Mac
 source nom_de_la_venv/bin/activate
 
-# Windows
+#### 2. Windows
 nom_de_la_venv\Scripts\activate
 ### 3. Installer les librairies necessaires
 ```bash

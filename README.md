@@ -18,12 +18,13 @@ Visiter le site officiel : [https://www.python.org/downloads/](https://www.pytho
     python -m venv nom_de_la_venv
 ```
 - **Activation**
-#### 1. Linux/Mac
+
+- *** 1. Linux/Mac ***
 ```bash
 source nom_de_la_venv/bin/activate
 ```
 
-#### 2. Windows
+- *** 2. Windows ***
 ```bash
 nom_de_la_venv\Scripts\activate
 ```

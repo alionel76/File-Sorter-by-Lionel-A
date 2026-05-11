@@ -19,10 +19,15 @@ Visiter le site officiel : [https://www.python.org/downloads/](https://www.pytho
 ```
 - **Activation**
 #### 1. Linux/Mac
+```bash
 source nom_de_la_venv/bin/activate
+```
 
 #### 2. Windows
+```bash
 nom_de_la_venv\Scripts\activate
+```
+
 ### 3. Installer les librairies necessaires
 ```bash
     pip install -r requirements.txt
